@@ -1,8 +1,5 @@
-
 {
-  "name": "FELIPE KIDS - English A1 Adventure",
+  "name": "Copy of FELIPE KIDS - English A1 Adventure",
   "description": "Inglés básico (A1) para niños con Minecraft, Avengers y Generador de Héroes.",
-  "requestFramePermissions": [
-    "camera"
-  ]
+  "requestFramePermissions": []
 }

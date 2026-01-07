@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# 🦖 SUPER FELIPE - English A1 Adventure
 
-This contains everything you need to run your app locally.
+Una aplicación educativa e interactiva diseñada para niños de 10 a 12 años que están aprendiendo inglés (Nivel A1). 
 
-View your app in AI Studio: https://ai.studio/apps/drive/1JwhAfsXd77dfG33wQZJVERQVqCuo0b8n
+## 🚀 Características
+- **Misiones de Juego**: 50 preguntas temáticas (Saludos, Comida, Rutinas, Hobbies, Cuerpo).
+- **Hero Lab**: Generador de superhéroes mediante IA (Gemini 2.5 Flash Image).
+- **Cuentos Mágicos**: Creador de historias cortas bilingües.
+- **Voz Integrada**: Felipe lee las preguntas y cuentos usando TTS (Text-to-Speech).
+- **PWA**: Instalable en dispositivos móviles para jugar en cualquier parte.
 
-## Run Locally
+## 🛠️ Tecnologías
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS
+- Google Gemini API (GenAI SDK)
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🔑 Configuración
+Para que la IA funcione, debes configurar una variable de entorno llamada `API_KEY` con tu llave de Google AI Studio en tu plataforma de despliegue (Vercel/Netlify).
