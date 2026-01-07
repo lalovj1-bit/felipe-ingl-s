@@ -1,0 +1,8 @@
+
+{
+  "name": "FELIPE KIDS - English A1 Adventure",
+  "description": "Inglés básico (A1) para niños con Minecraft, Avengers y Generador de Héroes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
